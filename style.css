@@ -1,0 +1,60 @@
+body{
+    background-image:url('background.jpg');
+    text-align: center;
+}
+h{
+font-family:'sofia';
+color: rgb(113, 10, 247);
+font-size: xx-large;
+}
+p{
+    font-family: 'Roboto';
+    color:rgb(91, 6, 250);
+    font-size:large;
+    text-align: left;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+li{
+    display: inline;
+    color: floralwhite;
+    font-size: 20px;
+    padding-left: 10px;
+}
+a{
+    position: relative;
+    text-decoration: none;
+    color:floralwhite ;
+    
+}
+iframe{
+    margin-left: 0px;
+    padding-left: 0px;
+       
+}
+#contact{
+    align-content: center;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-facebook {
+    color: rgb(57, 2, 255);
+  }
+  .fa-twitter {
+    color: rgb(59, 7, 250);
+  }
+  .fa-linkedin{
+   color: rgb(238, 234, 247);
+  }
+  .fa-youtube{
+    color: rgb(252, 16, 36);
+  }
